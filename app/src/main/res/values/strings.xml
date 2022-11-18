@@ -3,4 +3,6 @@
     <string name="Wprawo"><![CDATA[>>>>]]></string>
     <string name="Wlewo"><![CDATA[<<<<]]></string>
     <string name="Frog">Frog</string>
+    <string name="silnia">Silnia</string>
+    <string name="button">Button</string>
 </resources>
